@@ -9,7 +9,7 @@
  
  * Creating my own codespace.☺️
   
- * Checking the mechanism of autograding in github and its workflow.
+ * Checking the mechanism of autograding in github and its workflow. 
  
  * Making commits onto github
  
