@@ -1,4 +1,4 @@
-# What I have learnt in this course of Computing For Bioinformatics.
+## What I have learnt in this course of Computing For Bioinformatics.
 
 
  I have learnt using github and doing different tasks in it.like
@@ -25,11 +25,11 @@
 * 
 * Secondly,I don't understand pseudocode,and i find it difficult building logic behind the problem.
 
- ### What I liked or didn’t like about the content of this course.
+ ##Wh at I liked or didn’t like about the content of this course.
 
 * Firstly i didn't like how github works,but now since i am learning it so i have astarted liking it aswell.
 * It is a good thing that we are given tasks,its sorta hectic but atleast we are learning things.Its better having hectic routinue then learning nothing.
 * So yeah its been good so far.Juat don't ask for pseudocodes or logics behind codes,but i guess we need more practice of it.
 
-#### I would like to see more of? What would be interesting or helpful to my learning journey?
+##  would like to see more of? What would be interesting or helpful to my learning journey?
 * More of practice work on building logics for problems.
