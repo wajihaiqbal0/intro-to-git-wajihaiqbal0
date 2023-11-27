@@ -15,7 +15,7 @@ WHAT I HAVE LEARNT IN THIS COURSE OF COMPUTING FOR BIOINFORMATICS.
  
  6_ How to push your code into github.
  
- 7_ About pull requests.
+ 7_ About pull requests. 
  
  
 WHAT ARE MY CONFUSIONS THAT NEED TO GET SORTED OUT.
