@@ -25,7 +25,7 @@
 * 
 * Secondly,I don't understand pseudocode,and i find it difficult building logic behind the problem.
 
- ##Wh at I liked or didn’t like about the content of this course.
+ ## What I liked or didn’t like about the content of this course.
 
 * Firstly i didn't like how github works,but now since i am learning it so i have astarted liking it aswell.
 * It is a good thing that we are given tasks,its sorta hectic but atleast we are learning things.Its better having hectic routinue then learning nothing.
