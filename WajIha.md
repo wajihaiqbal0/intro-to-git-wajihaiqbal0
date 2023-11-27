@@ -8,7 +8,7 @@ WHAT I HAVE LEARNT IN THIS COURSE OF COMPUTING FOR BIOINFORMATICS.
  2_ A repository is what,how do it works.
  
  3_ Creating my own codespace.
- 
+  
  4_ Checking the mechanism of autograding in github and its workflow.
  
  5_ Making commits onto github
